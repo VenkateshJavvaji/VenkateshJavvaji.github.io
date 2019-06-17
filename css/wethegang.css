@@ -1,0 +1,109 @@
+#thegangbg{
+    background-image: url("../resources/bg/gplaypattern.png");
+    background-repeat: repeat;
+}
+
+.container-fluid{
+    margin-left:15%;
+    margin-top:2%;
+    margin-right:15%;
+}
+
+#gangdisc{
+    margin-top: 15%;
+}
+
+#ganglogo{
+    color: black;
+    font-family: 'Bevan', cursive;
+    font-size: 40px;
+}
+
+#gangname{
+    color: black;
+    font-family: 'Bevan', cursive;
+    font-size: 65px;
+}
+ 
+#gangtag{
+    color: black;
+    font-family: 'Satisfy', cursive;
+    max-width: 650px;
+    margin-top: 45px;
+    font-size: 45px;
+}
+
+#gangmotto{
+    color: black;
+    font-family: 'Bevan', cursive;
+}
+
+.icon{
+    font-size:x-large;
+    color:black;
+}
+
+#darrow{
+    font-size:x-large;
+    position:relative;
+    top:40px;
+    color:black;
+}
+
+#darrow:hover{
+    font-size:xx-large;
+}
+
+#peopleblock{
+    margin-top:30%;
+    color:black;
+}
+
+#peoplehead{
+    font-family: 'Bevan', cursive;
+}
+
+.peopleimg{
+    margin-top:40px;
+    margin-bottom:15px;
+}
+
+.colgrids{
+    text-align:center; ! important
+
+}
+
+.peoplename{
+    font-family: 'Bevan', cursive;
+    font-size:20px;
+}
+
+.peoplelinks{
+    margin-top:10px;
+    color:black;
+    margin-bottom:10px;
+}
+
+.peopleicon{
+    font-size:x-large;
+    color:#454243;
+
+}
+
+.peopledesc{
+    color:black;
+    font-family: 'Satisfy', cursive;
+    font-size:17px;
+
+}
+
+.footer{
+    margin-top:7%;
+    padding:20px;
+}
+
+.inner{
+    color: black;
+    font-family: 'Satisfy', cursive;
+    text-align:center; 
+}
